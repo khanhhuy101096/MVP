@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Login Activity</string>
+    <string name="user_name">user name</string>
+    <string name="log_in">Login</string>
+    <string name="password">password</string>
+    <string name="username_error">Username can\'t be empty</string>
+    <string name="password_error">Password can\'t be empty</string>
 </resources>
